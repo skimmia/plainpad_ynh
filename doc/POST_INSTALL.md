@@ -1,5 +1,5 @@
 The default credentials are:
 ```
 username: admin@example.org
-password: 12345
+password: 12345678
 ```
